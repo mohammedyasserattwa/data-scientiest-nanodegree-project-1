@@ -8,6 +8,11 @@ The most important step and the first one is to pick the dataset. The dataset ch
 - collections
 - matplotlib
 - numpy
+## Instructions
+- Install required packages
+- Download 2023 dataset from https://insights.stackoverflow.com/survey
+- Rename it to "survey_results_public_2023.csv"
+- Run notebook
 ## Questions
 These are the questions that will be solved using the dataset:
 1.  What are the most preferred/wanted programming languages in Egypt?
